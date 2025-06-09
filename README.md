@@ -7,7 +7,8 @@
 
 ---
 
-🔭 I’m currently working on **Fluffy's Adventure**, a 3D action-adventure game with stylized level design.
+🔭 I recently worked on **Fluffy's Adventure**, a 2D stylized platformer.  
+🚧 Currently developing **Sundered Realms**, a cinematic and combat-heavy action RPG built in Unreal Engine.
 
 🌱 I’m learning:
 - Advanced Unity/Unreal mechanics
@@ -23,6 +24,7 @@
 - Game development in Unity and Unreal
 - Level design pipelines
 - Setting up Input Systems or Blueprint logic
+- Level design and terrain workflow
 
 📫 Reach me at:
 - LinkedIn: https://www.linkedin.com/in/abhishek-mishra-734a40251
@@ -34,8 +36,9 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blueprint-1C1E26?style=for-the-badge&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white"/>
@@ -43,16 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🎯 Goals for 2025
-- ✅ Release a polished indie game
-- 🎮 Participate in a major game jam
-- 🚀 Learn procedural level generation
+- 🎮 Launch a polished build of Sundered Realms
+- ⚙️ Improve C++ mastery for gameplay systems
+- 🧪 Experiment with procedural content
